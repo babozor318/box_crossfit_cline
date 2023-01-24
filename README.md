@@ -6,7 +6,7 @@
  * Ce projet est mis en ligne sous "LICENCE BEER-WARE" ou bièriciel (Revision 42) - https://fr.wikipedia.org/wiki/Beerware
  * <lagrottedubarbu@gmail.com> a libéré ce projet... du moment que vous n'enlevez pas la paternité (ce morceau de texte), vous pouvez faire ce que vous voulez avec ce projet. Si on se rencontre un jour et que vous estimez que cela le mérite, vous pouvez me payer une bière en retour.   Babozor
 
-![le projet fini]([http://url/to/img.png](https://github.com/babozor318/box_crossfit_cline/blob/main/3_photos/fini_001.jpg))
+![le projet fini]([http://url/to/img.png](https://github.com/babozor318/box_crossfit_cline/blob/main/3_photos/fini_001.jpg?raw=true))
 
 # box_crossfit_celine
  une boite pour le crossfit avec 40/50/60cm de haut en bois, ultra simple à fabriquer et monter soi même
